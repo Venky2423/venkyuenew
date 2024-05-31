@@ -19,7 +19,7 @@ export const defaultErrorMessages = {
 // eslint-disable-next-line no-useless-escape
 export const emailPattern = '([A-Za-z0-9][._]?)+[A-Za-z0-9]@[A-Za-z0-9]+(\.?[A-Za-z0-9]){2}\.([A-Za-z0-9]{2,4})?';
 
-let submitBaseUrl = '';
+let submitBaseUrl = 'https://7d77-2406-7400-c6-c4b1-f929-8fd6-d1a7-c0b7.ngrok-free.app/';
 
 export function setSubmitBaseUrl(url) {
   submitBaseUrl = url;
