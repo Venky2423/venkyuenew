@@ -389,6 +389,10 @@
                         "valueType": "string",
                         "options": [
                             {
+                                 "name": "0 column",
+                                "value": "0"
+                            },
+                            {
                                 "name": "1 column",
                                 "value": "1"
                             },
